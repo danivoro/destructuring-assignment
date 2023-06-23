@@ -24,6 +24,7 @@
     "format:check": "prettier --check src",
     "demo:0a": "ts-node src/examples/0a-no-destructuring.ts",
     "demo:0b": "ts-node src/examples/0b-with-destructuring.ts",
+    "challenge:0a": "ts-node src/challenges/0a-no-destructuring.ts", 
     "test": "jest",
     "test:watch": "jest --watchAll",
     "type-check": "tsc --noEmit"
